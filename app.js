@@ -24,5 +24,5 @@ app.get('/api/youtube/curated', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server listening at http://localhost:${port}`);
+  console.log(`Server listening at http://13.124.52.76:${port}`);
 });
