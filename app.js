@@ -38,5 +38,5 @@ app.get('/api/youtube/curated', (req, res) => {
 
 // 서버 시작
 app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
+  console.log(`Server is running at http://13.124.52.76:${port}`);
 });
